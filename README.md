@@ -1,18 +1,13 @@
  <h1 align="center">satriadmin（PHP）通用管理后台</h1>
 <h4 align="center">🚀快速开发、✅后台多端自适应、📱手机端、🖥️PC（电脑）端前台</h4> 
 <p align="center">
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-7"></a> <a href="https://www.tslang.cn/"><img src="https://img.shields.io/badge/JavaScript-294e80"></a> <a href="#"><img src="https://img.shields.io/badge/ThinkPHP-6.0-6fb737"></a> <a href="#"><img src="https://img.shields.io/badge/Vue.js-3-4eb883"></a> <a href="#"><img src="https://img.shields.io/badge/vite-2-ffc018"></a> <a href="#"><img src="https://img.shields.io/badge/Element Plus-2-409eff"></a> <a href="https://uniapp.dcloud.io/"><img src="https://img.shields.io/badge/uniapp--d85806"></a> <a href="https://www.nuxtjs.cn/"><img src="https://img.shields.io/badge/Nuxt.js--18bc78"></a>
+<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-7"></a> <a href="https://www.tslang.cn/"><img src="https://img.shields.io/badge/JavaScript--294e80"></a><a href="#"><img src="https://img.shields.io/badge/Vue.js-2-4eb883"></a> <a href="#"><img src="https://img.shields.io/badge/Babel-6-ffc018"></a> <a href="#"><img src="https://img.shields.io/badge/ElementUI--409eff"></a> <a href="https://uniapp.dcloud.io/"><img src="https://img.shields.io/badge/uniapp--d85806"></a>
 </p>
 <p align="center">
 <a href="https://mp.weixin.qq.com/"><img src="https://img.shields.io/badge/微信-公众号-05ce66"></a>
 <a href="https://mp.weixin.qq.com/"><img src="https://img.shields.io/badge/微信-小程序-05ce66"></a>
+ <a href="https://pay.weixin.qq.com/"><img src="https://img.shields.io/badge/微信-支付API2-05ce66"></a>
 <a href="https://pay.weixin.qq.com/"><img src="https://img.shields.io/badge/微信-支付API3-05ce66"></a>
-<a href="https://open.weixin.qq.com/"><img src="https://img.shields.io/badge/微信-开放平台-05ce66"></a>
-<a href="https://cloud.tencent.com/"><img src="https://img.shields.io/badge/腾讯云-COS-00a3ff"></a>
-<a href="https://cloud.tencent.com/"><img src="https://img.shields.io/badge/腾讯云-短信-00a3ff"></a>
-<a href="https://www.aliyun.com/"><img src="https://img.shields.io/badge/阿里云-OSS-ff6a00"></a>
-<a href="https://www.aliyun.com/"><img src="https://img.shields.io/badge/阿里云-短信-ff6a00"></a>
-<a href="https://www.qiniu.com/"><img src="https://img.shields.io/badge/七牛云-OSS-07beff"></a>
 </p>
 </p>
 <div align="center">
