@@ -1,4 +1,16 @@
 <?php
+/**
+ * 微信小程序内容安全检测工具
+ *
+ * @version 1.0.0
+ * @author 夏创高科技软件产业（辽宁）有限公司
+ * @link https://satri.cn
+ * @license MIT
+ *
+ * @param string $checkContent 要检测的内容
+ * @param string $access_token 微信接口访问令牌
+ * @return bool 检测结果，true表示通过，false表示不通过
+ */
 function msgSecCheck($checkContent,$access_token){
     $url = 'https://api.weixin.qq.com/wxa/msg_sec_check?access_token='.$access_token;
     $data = json_encode(array('content'=>$checkContent),JSON_UNESCAPED_UNICODE);
