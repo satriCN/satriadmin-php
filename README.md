@@ -1,4 +1,4 @@
-# satriadmin（PHP）通用管理后台<
+# satriadmin（PHP）通用管理后台
 ## 🚀快速开发、✅后台多端自适应、📱手机端、🖥️PC（电脑）端前台
 <p align="center">
 <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-7-8892bf"></a> <a href="https://www.tslang.cn/"><img src="https://img.shields.io/badge/JavaScript--294e80"></a> <a href="#"><img src="https://img.shields.io/badge/Vue.js-2-4eb883"></a> <a href="#"><img src="https://img.shields.io/badge/Babel-6-ffc018"></a> <a href="#"><img src="https://img.shields.io/badge/ElementUI--409eff"></a> <a href="https://uniapp.dcloud.io/"><img src="https://img.shields.io/badge/uniapp--d85806"></a>
