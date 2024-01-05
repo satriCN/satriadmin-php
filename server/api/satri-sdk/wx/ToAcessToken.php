@@ -1,4 +1,17 @@
 <?php
+/**
+ * 获取微信小程序访问令牌
+ *
+ * @version 1.0.0
+ * @author 夏创高科技软件产业（辽宁）有限公司
+ * @link https://yourwebsite.com
+ * @license MIT
+ *
+ * @param string $appsecret 微信小程序的App Secret
+ * @param string $appid 微信小程序的App ID
+ * @param string $grantType 授权类型，一般为 "client_credential"
+ * @return string 返回获取到的微信小程序访问令牌
+ */
 function get_wx_programe_accesstoken($appsecret,$appid,$grantType){
     // 构建请求 URL
     $url = 'https://api.weixin.qq.com/cgi-bin/token';
